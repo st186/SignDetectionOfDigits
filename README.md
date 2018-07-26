@@ -22,5 +22,3 @@ Note that this is a subset of the SIGNS dataset. The complete dataset contains m
 Here are examples for each number, and how an explanation of how we represent the labels. These are the original pictures, before we lowered the image resolutoion to 64 by 64 pixels.
 <img src="images/hands.png" style="width:800px;height:350px;"><caption><center> <u><font color='purple'> **Figure 1**</u><font color='purple'>: SIGNS dataset <br> <font color='black'> </center>
 
-
-Run the following code to load the dataset.
